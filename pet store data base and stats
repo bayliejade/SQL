@@ -1,0 +1,21 @@
+create pet store data base.
+
+CREATE TABLE pet_store (ID INTEGER PRIMARY KEY,name TEXT,quanity INTEGER, aisle INTEGER, price INTEGER);
+insert into pet_store values (2, "bone", 10,5,5 );
+insert into pet_store values (3, "treats", 5,10, 15 ); 
+insert into pet_store values (4," leashes", 2,8, 15);
+insert into pet_store values (5,"harness", 3,8,20);
+insert into pet_store values (6,"food",4,10,40);
+INSERT into pet_store VALUES (1, "balls",10,5,10);
+--how many items are in the store
+select sum(quanity) From pet_store;
+
+--display the data base orderd by price
+select * from pet_store order by price desc; 
+
+--display the prices and how many items are in the store.
+select price,sum(quanity) from pet_store Group by price; 
+
+-- display all items in store that are less the 15$ 
+select sum (quanity) From pet_store Group by price>15; 
+ 
