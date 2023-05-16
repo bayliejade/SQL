@@ -1,0 +1,49 @@
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Russell Westbrook','Oklahoma City Thunder','West','Oct 31, 2016','G','6''3',200,28,2008,8,'2016-2017',2017,'UCLA',0.5,190,90,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Paul Millsap','Atlanta Hawks','East','Apr 11, 2016','FC','6''8',246,31,2006,9,'2015-2016',2016,'Louisiana Tech',0.5,203,111,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Karl-Anthony Towns','Minnesota Timberwolves','West','Apr 11, 2016','C','7''0',248,20,2015,0,'2015-2016',2016,'Kentucky',0.5,213,112,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('LeBron James','Cleveland Cavaliers','East','Apr 4, 2016','F','6''8',250,31,2003,12,'2015-2016',2016,'St. Vincent St. Mary High School (Ohio)',0.5,203,113,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('J.J. Barea','Dallas Mavericks','West','Apr 4, 2016','G','6''0',185,31,2006,9,'2015-2016',2016,'Northeastern',0.5,183,83,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('LeBron James','Cleveland Cavaliers','East','Mar 28, 2016','F','6''8',250,31,2003,12,'2015-2016',2016,'St. Vincent St. Mary High School (Ohio)',0.5,203,113,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Klay Thompson','Golden State Warriors','West','Mar 28, 2016','G','6''7',215,26,2011,4,'2015-2016',2016,'Washington State',0.5,201,97,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Kyle Lowry','Toronto Raptors','East','Mar 21, 2016','PG','6''1',196,29,2006,9,'2015-2016',2016,'Villanova',0.5,185,88,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Kevin Durant','Oklahoma City Thunder','West','Mar 21, 2016','SF','6''9',240,27,2007,8,'2015-2016',2016,'Texas',0.5,206,108,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Kemba Walker','Charlotte Hornets','East','Mar 14, 2016','G','6''1',184,25,2011,4,'2015-2016',2016,'Connecticut',0.5,185,83,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Stephen Curry','Golden State Warriors','West','Mar 14, 2016','G','6''3',190,27,2009,6,'2015-2016',2016,'Davidson',0.5,190,86,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('LeBron James','Cleveland Cavaliers','East','Mar 7, 2016','F','6''8',250,31,2003,12,'2015-2016',2016,'St. Vincent St. Mary High School (Ohio)',0.5,203,113,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM
+      ,Weight_KG,Last_Season) VALUES ('Kawhi Leonard','San Antonio Spurs','West','Mar 7, 2016','F','6''7',230,24,2011,4,'2015-2016',2016,'San Diego State',0.5,201,104,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Kyle Lowry','Toronto Raptors','East','Feb 29, 2016','PG','6''1',196,29,2006,9,'2015-2016',2016,'Villanova',0.5,185,88,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Stephen Curry','Golden State Warriors','West','Feb 29, 2016','G','6''3',190,27,2009,6,'2015-2016',2016,'Davidson',0.5,190,86,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Isaiah Thomas','Boston Celtics','East','Feb 8, 2016','PG','5''9',185,27,2011,4,'2015-2016',2016,'Washington',0.5,175,83,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('LaMarcus Aldridge','San Antonio Spurs','West','Feb 8, 2016','FC','6''11',265,30,2006,9,'2015-2016',2016,'Texas',0.5,211,120,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Dwyane Wade','Miami Heat','East','Feb 1, 2016','SG','6''4',220,34,2003,12,'2015-2016',2016,'Marquette',0.5,193,99,0);
+INSERT INTO players(Player,Team,Conference,Date,Position,Height,Weight,Age,Draft_Year,Seasons_in_league,Season,Season_short,Predraft_Team,Real_value,Height_CM,Weight_KG,Last_Season) VALUES ('Kevin Durant','Oklahoma City Thunder','West','Feb 1, 2016','SF','6''9',240,27,2007,8,'2015-2016',2016,'Texas',0.5,206,108,0);
+
+-- display all the players whos draft year is after 2015 and there positons.
+select * from players where draft_year > 2015 AND "SG" = position; 
+select player from players where "sf" = position OR draft_year = 2016; 
+
+-- show what the average years in the league is.
+select AVG(Seasons_in_league) from players;
+
+--display what the average height in the NBA is
+select AVG(height) from players;
+
+-- display which player has been in the league the longest
+select max(seasons_in_league) from players; 
+
+-- show which player(s) are the lightest in the legue.
+select min (weight),player from players;
+ 
+ --display players age and name who were drafted in 2008
+select age, player from players group by player having draft_year = 2008
+; 
+-- display the height stats of the players. 
+select player, 
+    case
+      when height_cm > 198 then "above avg height"
+      when height_cm < 198 then "below avg height"
+      else "avg height"
+      end as "height_stats"
+      from players
+      group by age limit 10; 
