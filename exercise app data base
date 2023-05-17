@@ -1,0 +1,19 @@
+-- creating a table with data for a exercise app 
+
+CREATE table exercise_log( id INTEGER PRIMARY KEY, activity text, minutes integer,calories_burned integer); 
+
+insert into exercise_log values(1, "hiking", 60, 150);
+insert into excercise_log values(2, "softball",40, 80);
+insert into excercise_log values(3, "weight_lifting", 45,200);
+insert into excercise_log values(4, "swimming", 30,200);
+insert into excercise_log values(5, "cycling", 60, 400); 
+
+-- updating a log. callories were off. 
+Update excercise_log SET calories_burned = 300 where id=1;
+
+select * from exercise_log; 
+
+-- deleting a log. 
+delete from exercise_log where id= 2;
+
+select * from excercise_log; 
