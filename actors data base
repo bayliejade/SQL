@@ -1,0 +1,48 @@
+-- creating a (left)table with rows.  
+
+create table actors (id INTEGER primary key, name TEXT, age INTEGER, married TEXT, awards TEXT);
+INSERT INTO actors VALUES (1, "jonny depp", 59, "no", "yes");
+insert into actors VAlues (2, "Ryan Reynolds", 46, "yes", "no");
+insert into actors values (3,"camron diaz", 50, "yes", "yes");
+insert into actors values (4,"zendaya",26,"no", "yes"); 
+INSERT INTo actors values(5,"will smith",54,"yes","no");
+INSERT INTO actors values(6, "matt dammon", 53,"no","yes");
+INSERt INTo actors values(7,"jenifer larence", 32, "no", "yes");
+INSERT INTO actors values (8, "blake livey",42, "yes", "no");
+
+-- creating a (right) table with rows 
+
+create table movie (id INTEGER primary key, title TEXT);
+insert into movie VALUES (1,"pirates of the caribiean");
+INSERT INTO movie values (2,"deadpool");
+insert into movie values (3,"charlies_angles");
+insert into movie values (4, "spiderman");
+insert into movie values (5, "hitch");
+insert into movie values (6, "interstellar");
+insert into movie values (7, "hungergames");
+insert into movie values (8, "age_of_adline");
+
+-- displaying the name and age of actor and joining tables to also see what movie they are in. 
+
+select actors.name,actors.age,movie.title 
+from actors
+join movie 
+on actors.id= movie.id; 
+
+-- selecting name and age from tables displaying them from oldest to youngest.  
+ 
+ select name, age from actors
+ order by age desc; 
+
+-- displaying name and status 
+ 
+ select actors.name, taken.married from actors
+ join actors taken
+ on actors.id = taken.id; 
+
+-- displaying actors who have won an award, and what movie they have played in. 
+ 
+ select actors.name, actors.awards,movie. title 
+ from actors 
+ join movie
+ on actors.id = movie.id;
